@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 92" width="1280" height="92" role="img" aria-label="ARMAMENT REGISTRY">
+  <title>ARMAMENT REGISTRY</title>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#10161d"/><stop offset=".65" stop-color="#1e2935"/><stop offset="1" stop-color="#3a2d1b"/></linearGradient>
+    <linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#f3dc9c" stop-opacity="0"/><stop offset=".5" stop-color="#f3dc9c"/><stop offset="1" stop-color="#f3dc9c" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>.m{animation:m 6s ease-in-out infinite}@keyframes m{from{transform:translateX(-300px)}to{transform:translateX(1300px)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+  <rect x="1" y="1" width="1278" height="90" rx="8" fill="url(#g)" stroke="#c9a24b" stroke-width="2"/>
+  <text x="46" y="60" font-family="Georgia,'Times New Roman',serif" font-size="38" font-weight="700" fill="#c9a24b">I</text>
+  <path d="M112 22V70" stroke="#c9a24b" stroke-width="1.5"/>
+  <text x="136" y="58" font-family="Georgia,'Times New Roman',serif" font-size="33" font-weight="700" letter-spacing="4" fill="#f4ecd8">ARMAMENT REGISTRY</text>
+  <text x="1240" y="56" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="19" fill="#c9a24b">equipment on issue</text>
+  <rect class="m" y="86" width="280" height="2.5" fill="url(#sweep)"/>
+</svg>

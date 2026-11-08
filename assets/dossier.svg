@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 610" width="1280" height="610" role="img" aria-label="Personnel file for Rozi Wrya, callsign RoziW">
+  <title>Personnel file: Rozi Wrya</title>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ecdfbe"/><stop offset=".6" stop-color="#dfcea4"/><stop offset="1" stop-color="#c8b281"/></linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#000" flood-opacity=".5"/></filter>
+    <radialGradient id="dgem" cx="38%" cy="32%" r="75%"><stop offset="0" stop-color="#e8fbff"/><stop offset=".4" stop-color="#7fdcff"/><stop offset="1" stop-color="#123f5e"/></radialGradient>
+    <radialGradient id="dhalo"><stop offset="0" stop-color="#7fdcff" stop-opacity=".55"/><stop offset="1" stop-color="#7fdcff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+  .spin{animation:r 40s linear infinite}.s2{animation-duration:26s;animation-direction:reverse}.s3{animation-duration:14s}
+  .pulse{animation:p 3.2s ease-in-out infinite}
+  @keyframes r{to{transform:rotate(360deg)}}
+  @keyframes p{50%{opacity:.72;transform:scale(1.07)}}
+  .thump{opacity:0;animation:s 9s cubic-bezier(.2,1.6,.4,1) infinite}
+  @keyframes s{0%,14%{opacity:0;transform:scale(2.2)}19%,90%{opacity:.85;transform:scale(1)}100%{opacity:0;transform:scale(1)}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}.thump{opacity:.85}}
+  </style>
+  <path d="M60 44H330L358 18H560L588 44H1220V586H60Z" fill="#7c6236" filter="url(#shadow)"/>
+  <rect x="84" y="54" width="1112" height="520" rx="3" fill="url(#paper)"/>
+  <text x="640" y="104" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="34" font-weight="700" letter-spacing="7" fill="#22201a">PERSONNEL FILE</text>
+  <text x="640" y="132" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="16" letter-spacing="2" fill="#6a4f22">EYES ONLY &#183; DO NOT REMOVE FROM THE ARCHIVE</text>
+  <path d="M120 150H1160" stroke="#22201a" stroke-width="2"/>
+  <g transform="translate(124 168)">
+    <rect width="280" height="300" fill="#141a21" stroke="#22201a" stroke-width="3"/>
+    <g transform="translate(140 150) scale(.7)">
+  <g class="spin s1">
+    <circle r="178" fill="none" stroke="#c9a24b" stroke-width="2"/><circle r="146" fill="none" stroke="#c9a24b" stroke-width="1"/>
+    <path id="da" d="M0 -154A154 154 0 1 1 0 154A154 154 0 1 1 0 -154Z" fill="none"/><text font-family="Georgia,'Times New Roman',serif" font-size="22" fill="#f3dc9c" letter-spacing="1"><textPath href="#da" textLength="967.61" lengthAdjust="spacing">IN NOMINE CODICIS &#183; COMPILA &#183; EXSEQUERE &#183; VINCE &#183; NIHIL NISI RATIO &#183; </textPath></text>
+    <path d="M178 0L188 0M177.32 15.51L187.28 16.39M175.3 30.91L185.14 32.65M171.93 46.07L181.59 48.66M167.27 60.88L176.66 64.3M161.32 75.23L170.39 79.45M154.15 89L162.81 94M145.81 102.1L154 107.83M136.36 114.42L144.02 120.84M125.87 125.87L132.94 132.94M114.42 136.36L120.84 144.02M102.1 145.81L107.83 154M89 154.15L94 162.81M75.23 161.32L79.45 170.39M60.88 167.27L64.3 176.66M46.07 171.93L48.66 181.59M30.91 175.3L32.65 185.14M15.51 177.32L16.39 187.28M0 178L0 188M-15.51 177.32L-16.39 187.28M-30.91 175.3L-32.65 185.14M-46.07 171.93L-48.66 181.59M-60.88 167.27L-64.3 176.66M-75.23 161.32L-79.45 170.39M-89 154.15L-94 162.81M-102.1 145.81L-107.83 154M-114.42 136.36L-120.84 144.02M-125.87 125.87L-132.94 132.94M-136.36 114.42L-144.02 120.84M-145.81 102.1L-154 107.83M-154.15 89L-162.81 94M-161.32 75.23L-170.39 79.45M-167.27 60.88L-176.66 64.3M-171.93 46.07L-181.59 48.66M-175.3 30.91L-185.14 32.65M-177.32 15.51L-187.28 16.39M-178 0L-188 0M-177.32 -15.51L-187.28 -16.39M-175.3 -30.91L-185.14 -32.65M-171.93 -46.07L-181.59 -48.66M-167.27 -60.88L-176.66 -64.3M-161.32 -75.23L-170.39 -79.45M-154.15 -89L-162.81 -94M-145.81 -102.1L-154 -107.83M-136.36 -114.42L-144.02 -120.84M-125.87 -125.87L-132.94 -132.94M-114.42 -136.36L-120.84 -144.02M-102.1 -145.81L-107.83 -154M-89 -154.15L-94 -162.81M-75.23 -161.32L-79.45 -170.39M-60.88 -167.27L-64.3 -176.66M-46.07 -171.93L-48.66 -181.59M-30.91 -175.3L-32.65 -185.14M-15.51 -177.32L-16.39 -187.28M0 -178L0 -188M15.51 -177.32L16.39 -187.28M30.91 -175.3L32.65 -185.14M46.07 -171.93L48.66 -181.59M60.88 -167.27L64.3 -176.66M75.23 -161.32L79.45 -170.39M89 -154.15L94 -162.81M102.1 -145.81L107.83 -154M114.42 -136.36L120.84 -144.02M125.87 -125.87L132.94 -132.94M136.36 -114.42L144.02 -120.84M145.81 -102.1L154 -107.83M154.15 -89L162.81 -94M161.32 -75.23L170.39 -79.45M167.27 -60.88L176.66 -64.3M171.93 -46.07L181.59 -48.66M175.3 -30.91L185.14 -32.65M177.32 -15.51L187.28 -16.39" stroke="#c9a24b" stroke-width="1.5"/>
+  </g>
+  <g class="spin s2">
+    <path d="M0 -138L47.2 129.68L-88.7 -105.71L119.51 69L-135.9 -23.96L135.9 -23.96L-119.51 69L88.7 -105.71L-47.2 129.68Z" fill="none" stroke="#c9a24b" stroke-width="1" opacity=".75"/>
+    <circle r="112" fill="none" stroke="#c9a24b" stroke-width="1.5"/>
+    <circle cx="0" cy="-138" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="88.7" cy="-105.71" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="135.9" cy="-23.96" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="119.51" cy="69" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="47.2" cy="129.68" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-47.2" cy="129.68" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-119.51" cy="69" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-135.9" cy="-23.96" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-88.7" cy="-105.71" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/>
+  </g>
+  <g class="spin s3">
+    <path id="db" d="M0 -92A92 92 0 1 1 0 92A92 92 0 1 1 0 -92Z" fill="none"/><text font-family="Georgia,'Times New Roman',serif" font-size="14" fill="#7fdcff" letter-spacing="1"><textPath href="#db" textLength="578.05" lengthAdjust="spacing">0x023 &#183; ORB.INIT() &#183; MANA.ALLOC() &#183; SHELL.CAST() &#183; </textPath></text>
+    <path d="M0 -78L67.55 39L-67.55 39ZM67.55 -39L0 78L-67.55 -39Z" fill="none" stroke="#7fdcff" stroke-width="1.2" opacity=".85"/>
+  </g>
+  <g class="pulse">
+    <circle r="62" fill="url(#dhalo)"/>
+    <circle r="34" fill="url(#dgem)" stroke="#f3dc9c" stroke-width="2.5"/>
+    <path d="M0 -24L9 -6L0 22L-9 -6Z" fill="#fff" opacity=".35"/>
+  </g></g>
+    <path d="M42 -22h30a9 9 0 0 1 9 9v62a7 7 0 0 1-14 0v-58h-20v66a11 11 0 0 0 22 0" fill="none" stroke="#9aa3ad" stroke-width="4"/>
+  </g>
+  <text x="264" y="498" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="16" font-weight="700" fill="#6a4f22">PHOTOGRAPH WITHHELD</text>
+  <g>
+    <text x="450" y="188" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="700" fill="#6a4f22">NAME</text>
+    <text x="592" y="188" font-family="'Courier New',Courier,monospace" font-size="21" font-weight="700" fill="#22201a">Rozi Wrya</text>
+    <path d="M450 200H1150" stroke="#8a7650" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="450" y="232" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="700" fill="#6a4f22">CALLSIGN</text>
+    <text x="592" y="232" font-family="'Courier New',Courier,monospace" font-size="21" font-weight="700" fill="#22201a">RoziW</text>
+    <path d="M450 244H1150" stroke="#8a7650" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="450" y="276" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="700" fill="#6a4f22">EPITHET</text>
+    <text x="592" y="276" font-family="'Courier New',Courier,monospace" font-size="21" font-weight="700" fill="#22201a">The Devil of the Merge Conflict</text>
+    <path d="M450 288H1150" stroke="#8a7650" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="450" y="320" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="700" fill="#6a4f22">EQUIPMENT</text>
+    <text x="592" y="320" font-family="'Courier New',Courier,monospace" font-size="21" font-weight="700" fill="#22201a">Computation Orb Type-23 (keyboard)</text>
+    <path d="M450 332H1150" stroke="#8a7650" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="450" y="364" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="700" fill="#6a4f22">DOCTRINE</text>
+    <text x="592" y="364" font-family="'Courier New',Courier,monospace" font-size="21" font-weight="700" fill="#22201a">Rational plans. Clean commits. No overtime.</text>
+    <path d="M450 376H1150" stroke="#8a7650" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="450" y="408" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="700" fill="#6a4f22">ACTIVITY</text>
+    <text x="592" y="408" font-family="'Courier New',Courier,monospace" font-size="21" font-weight="700" fill="#22201a">&#8220;I don&#39;t contribute often.&#8221;</text>
+    <path d="M450 420H1150" stroke="#8a7650" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="450" y="452" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="700" fill="#6a4f22">TACTICS</text>
+    <text x="592" y="452" font-family="'Courier New',Courier,monospace" font-size="21" font-weight="700" fill="#22201a">&#8220;I just dump all my projects at one time&#8221;</text>
+    <path d="M450 464H1150" stroke="#8a7650" stroke-width="1" stroke-dasharray="2 4"/>
+  </g>
+  <text x="450" y="506" font-family="Georgia,'Times New Roman',serif" font-size="23" font-style="italic" fill="#1f3a66">C.O. note: long silence, then artillery.</text>
+  <text x="450" y="538" font-family="Georgia,'Times New Roman',serif" font-size="23" font-style="italic" fill="#1f3a66">Request for a safe post in the rear:</text>
+  <g transform="translate(1010 520) rotate(-9)"><g class="thump">
+    <rect x="-118" y="-37" width="236" height="74" rx="6" fill="none" stroke="#b3261e" stroke-width="5"/>
+    <text text-anchor="middle" y="-5" font-family="'Courier New',Courier,monospace" font-size="24" font-weight="700" fill="#b3261e" textLength="200" lengthAdjust="spacingAndGlyphs">TRANSFER</text>
+    <text text-anchor="middle" y="26" font-family="'Courier New',Courier,monospace" font-size="28" font-weight="700" fill="#b3261e" textLength="200" lengthAdjust="spacingAndGlyphs">DENIED</text>
+  </g></g>
+</svg>

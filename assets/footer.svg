@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 130" width="1280" height="130" role="img" aria-label="End of report. Overtime is not authorised.">
+  <title>End of report</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b2631"/><stop offset="1" stop-color="#0b1016"/></linearGradient>
+    <radialGradient id="fgem" cx="38%" cy="32%" r="75%"><stop offset="0" stop-color="#e8fbff"/><stop offset=".4" stop-color="#7fdcff"/><stop offset="1" stop-color="#123f5e"/></radialGradient>
+    <radialGradient id="fhalo"><stop offset="0" stop-color="#7fdcff" stop-opacity=".55"/><stop offset="1" stop-color="#7fdcff" stop-opacity="0"/></radialGradient></defs>
+  <style>
+  .spin{animation:r 40s linear infinite}.s2{animation-duration:26s;animation-direction:reverse}.s3{animation-duration:14s}
+  .pulse{animation:p 3.2s ease-in-out infinite}
+  @keyframes r{to{transform:rotate(360deg)}}
+  @keyframes p{50%{opacity:.72;transform:scale(1.07)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+  <rect width="1280" height="130" rx="12" fill="url(#g)"/>
+  <g transform="translate(92 65) scale(.3)">
+  <g class="spin s1">
+    <circle r="178" fill="none" stroke="#c9a24b" stroke-width="2"/><circle r="146" fill="none" stroke="#c9a24b" stroke-width="1"/>
+    <path id="fa" d="M0 -154A154 154 0 1 1 0 154A154 154 0 1 1 0 -154Z" fill="none"/><text font-family="Georgia,'Times New Roman',serif" font-size="22" fill="#f3dc9c" letter-spacing="1"><textPath href="#fa" textLength="967.61" lengthAdjust="spacing">IN NOMINE CODICIS &#183; COMPILA &#183; EXSEQUERE &#183; VINCE &#183; NIHIL NISI RATIO &#183; </textPath></text>
+    <path d="M178 0L188 0M177.32 15.51L187.28 16.39M175.3 30.91L185.14 32.65M171.93 46.07L181.59 48.66M167.27 60.88L176.66 64.3M161.32 75.23L170.39 79.45M154.15 89L162.81 94M145.81 102.1L154 107.83M136.36 114.42L144.02 120.84M125.87 125.87L132.94 132.94M114.42 136.36L120.84 144.02M102.1 145.81L107.83 154M89 154.15L94 162.81M75.23 161.32L79.45 170.39M60.88 167.27L64.3 176.66M46.07 171.93L48.66 181.59M30.91 175.3L32.65 185.14M15.51 177.32L16.39 187.28M0 178L0 188M-15.51 177.32L-16.39 187.28M-30.91 175.3L-32.65 185.14M-46.07 171.93L-48.66 181.59M-60.88 167.27L-64.3 176.66M-75.23 161.32L-79.45 170.39M-89 154.15L-94 162.81M-102.1 145.81L-107.83 154M-114.42 136.36L-120.84 144.02M-125.87 125.87L-132.94 132.94M-136.36 114.42L-144.02 120.84M-145.81 102.1L-154 107.83M-154.15 89L-162.81 94M-161.32 75.23L-170.39 79.45M-167.27 60.88L-176.66 64.3M-171.93 46.07L-181.59 48.66M-175.3 30.91L-185.14 32.65M-177.32 15.51L-187.28 16.39M-178 0L-188 0M-177.32 -15.51L-187.28 -16.39M-175.3 -30.91L-185.14 -32.65M-171.93 -46.07L-181.59 -48.66M-167.27 -60.88L-176.66 -64.3M-161.32 -75.23L-170.39 -79.45M-154.15 -89L-162.81 -94M-145.81 -102.1L-154 -107.83M-136.36 -114.42L-144.02 -120.84M-125.87 -125.87L-132.94 -132.94M-114.42 -136.36L-120.84 -144.02M-102.1 -145.81L-107.83 -154M-89 -154.15L-94 -162.81M-75.23 -161.32L-79.45 -170.39M-60.88 -167.27L-64.3 -176.66M-46.07 -171.93L-48.66 -181.59M-30.91 -175.3L-32.65 -185.14M-15.51 -177.32L-16.39 -187.28M0 -178L0 -188M15.51 -177.32L16.39 -187.28M30.91 -175.3L32.65 -185.14M46.07 -171.93L48.66 -181.59M60.88 -167.27L64.3 -176.66M75.23 -161.32L79.45 -170.39M89 -154.15L94 -162.81M102.1 -145.81L107.83 -154M114.42 -136.36L120.84 -144.02M125.87 -125.87L132.94 -132.94M136.36 -114.42L144.02 -120.84M145.81 -102.1L154 -107.83M154.15 -89L162.81 -94M161.32 -75.23L170.39 -79.45M167.27 -60.88L176.66 -64.3M171.93 -46.07L181.59 -48.66M175.3 -30.91L185.14 -32.65M177.32 -15.51L187.28 -16.39" stroke="#c9a24b" stroke-width="1.5"/>
+  </g>
+  <g class="spin s2">
+    <path d="M0 -138L47.2 129.68L-88.7 -105.71L119.51 69L-135.9 -23.96L135.9 -23.96L-119.51 69L88.7 -105.71L-47.2 129.68Z" fill="none" stroke="#c9a24b" stroke-width="1" opacity=".75"/>
+    <circle r="112" fill="none" stroke="#c9a24b" stroke-width="1.5"/>
+    <circle cx="0" cy="-138" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="88.7" cy="-105.71" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="135.9" cy="-23.96" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="119.51" cy="69" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="47.2" cy="129.68" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-47.2" cy="129.68" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-119.51" cy="69" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-135.9" cy="-23.96" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-88.7" cy="-105.71" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/>
+  </g>
+  <g class="spin s3">
+    <path id="fb" d="M0 -92A92 92 0 1 1 0 92A92 92 0 1 1 0 -92Z" fill="none"/><text font-family="Georgia,'Times New Roman',serif" font-size="14" fill="#7fdcff" letter-spacing="1"><textPath href="#fb" textLength="578.05" lengthAdjust="spacing">0x023 &#183; ORB.INIT() &#183; MANA.ALLOC() &#183; SHELL.CAST() &#183; </textPath></text>
+    <path d="M0 -78L67.55 39L-67.55 39ZM67.55 -39L0 78L-67.55 -39Z" fill="none" stroke="#7fdcff" stroke-width="1.2" opacity=".85"/>
+  </g>
+  <g class="pulse">
+    <circle r="62" fill="url(#fhalo)"/>
+    <circle r="34" fill="url(#fgem)" stroke="#f3dc9c" stroke-width="2.5"/>
+    <path d="M0 -24L9 -6L0 22L-9 -6Z" fill="#fff" opacity=".35"/>
+  </g></g>
+  <g transform="translate(1188 65) scale(.3)">
+  <g class="spin s1">
+    <circle r="178" fill="none" stroke="#c9a24b" stroke-width="2"/><circle r="146" fill="none" stroke="#c9a24b" stroke-width="1"/>
+    <path id="ha" d="M0 -154A154 154 0 1 1 0 154A154 154 0 1 1 0 -154Z" fill="none"/><text font-family="Georgia,'Times New Roman',serif" font-size="22" fill="#f3dc9c" letter-spacing="1"><textPath href="#ha" textLength="967.61" lengthAdjust="spacing">IN NOMINE CODICIS &#183; COMPILA &#183; EXSEQUERE &#183; VINCE &#183; NIHIL NISI RATIO &#183; </textPath></text>
+    <path d="M178 0L188 0M177.32 15.51L187.28 16.39M175.3 30.91L185.14 32.65M171.93 46.07L181.59 48.66M167.27 60.88L176.66 64.3M161.32 75.23L170.39 79.45M154.15 89L162.81 94M145.81 102.1L154 107.83M136.36 114.42L144.02 120.84M125.87 125.87L132.94 132.94M114.42 136.36L120.84 144.02M102.1 145.81L107.83 154M89 154.15L94 162.81M75.23 161.32L79.45 170.39M60.88 167.27L64.3 176.66M46.07 171.93L48.66 181.59M30.91 175.3L32.65 185.14M15.51 177.32L16.39 187.28M0 178L0 188M-15.51 177.32L-16.39 187.28M-30.91 175.3L-32.65 185.14M-46.07 171.93L-48.66 181.59M-60.88 167.27L-64.3 176.66M-75.23 161.32L-79.45 170.39M-89 154.15L-94 162.81M-102.1 145.81L-107.83 154M-114.42 136.36L-120.84 144.02M-125.87 125.87L-132.94 132.94M-136.36 114.42L-144.02 120.84M-145.81 102.1L-154 107.83M-154.15 89L-162.81 94M-161.32 75.23L-170.39 79.45M-167.27 60.88L-176.66 64.3M-171.93 46.07L-181.59 48.66M-175.3 30.91L-185.14 32.65M-177.32 15.51L-187.28 16.39M-178 0L-188 0M-177.32 -15.51L-187.28 -16.39M-175.3 -30.91L-185.14 -32.65M-171.93 -46.07L-181.59 -48.66M-167.27 -60.88L-176.66 -64.3M-161.32 -75.23L-170.39 -79.45M-154.15 -89L-162.81 -94M-145.81 -102.1L-154 -107.83M-136.36 -114.42L-144.02 -120.84M-125.87 -125.87L-132.94 -132.94M-114.42 -136.36L-120.84 -144.02M-102.1 -145.81L-107.83 -154M-89 -154.15L-94 -162.81M-75.23 -161.32L-79.45 -170.39M-60.88 -167.27L-64.3 -176.66M-46.07 -171.93L-48.66 -181.59M-30.91 -175.3L-32.65 -185.14M-15.51 -177.32L-16.39 -187.28M0 -178L0 -188M15.51 -177.32L16.39 -187.28M30.91 -175.3L32.65 -185.14M46.07 -171.93L48.66 -181.59M60.88 -167.27L64.3 -176.66M75.23 -161.32L79.45 -170.39M89 -154.15L94 -162.81M102.1 -145.81L107.83 -154M114.42 -136.36L120.84 -144.02M125.87 -125.87L132.94 -132.94M136.36 -114.42L144.02 -120.84M145.81 -102.1L154 -107.83M154.15 -89L162.81 -94M161.32 -75.23L170.39 -79.45M167.27 -60.88L176.66 -64.3M171.93 -46.07L181.59 -48.66M175.3 -30.91L185.14 -32.65M177.32 -15.51L187.28 -16.39" stroke="#c9a24b" stroke-width="1.5"/>
+  </g>
+  <g class="spin s2">
+    <path d="M0 -138L47.2 129.68L-88.7 -105.71L119.51 69L-135.9 -23.96L135.9 -23.96L-119.51 69L88.7 -105.71L-47.2 129.68Z" fill="none" stroke="#c9a24b" stroke-width="1" opacity=".75"/>
+    <circle r="112" fill="none" stroke="#c9a24b" stroke-width="1.5"/>
+    <circle cx="0" cy="-138" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="88.7" cy="-105.71" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="135.9" cy="-23.96" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="119.51" cy="69" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="47.2" cy="129.68" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-47.2" cy="129.68" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-119.51" cy="69" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-135.9" cy="-23.96" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/><circle cx="-88.7" cy="-105.71" r="5" fill="#10161d" stroke="#f3dc9c" stroke-width="1.5"/>
+  </g>
+  <g class="spin s3">
+    <path id="hb" d="M0 -92A92 92 0 1 1 0 92A92 92 0 1 1 0 -92Z" fill="none"/><text font-family="Georgia,'Times New Roman',serif" font-size="14" fill="#7fdcff" letter-spacing="1"><textPath href="#hb" textLength="578.05" lengthAdjust="spacing">0x023 &#183; ORB.INIT() &#183; MANA.ALLOC() &#183; SHELL.CAST() &#183; </textPath></text>
+    <path d="M0 -78L67.55 39L-67.55 39ZM67.55 -39L0 78L-67.55 -39Z" fill="none" stroke="#7fdcff" stroke-width="1.2" opacity=".85"/>
+  </g>
+  <g class="pulse">
+    <circle r="62" fill="url(#fhalo)"/>
+    <circle r="34" fill="url(#fgem)" stroke="#f3dc9c" stroke-width="2.5"/>
+    <path d="M0 -24L9 -6L0 22L-9 -6Z" fill="#fff" opacity=".35"/>
+  </g></g>
+  <text x="640" y="58" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="31" font-weight="700" letter-spacing="5" fill="#c9a24b">END OF REPORT</text>
+  <text x="640" y="94" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="20" fill="#dfe4ea">Overtime is not authorised. Bugs will be dealt with accordingly.</text>
+</svg>
